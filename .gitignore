@@ -14,3 +14,6 @@ out
 mods
 
 !/.idea/jsonSchemas.xml
+
+translations/texts/monsters/skills/ranged/shared_Attack.monsterskill.json
+translations/texts/objects/ship/shared_shiplockerTier0/shared_shiplockerTier0.object.json
